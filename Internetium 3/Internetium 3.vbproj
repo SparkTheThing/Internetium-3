@@ -81,6 +81,12 @@
     <Compile Include="AboutBox1.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="BrowserTab.Designer.vb">
+      <DependentUpon>BrowserTab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BrowserTab.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +113,9 @@
   <ItemGroup>
     <EmbeddedResource Include="AboutBox1.resx">
       <DependentUpon>AboutBox1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrowserTab.resx">
+      <DependentUpon>BrowserTab.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
