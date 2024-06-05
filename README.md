@@ -1,18 +1,17 @@
-# Internetium-2-Source-Code
-This is the source code of Internetium's latest version, which is a Internet Explorer fork. 
+# Internetium 3
+This is the source code of Internetium's latest beta, which is a ~~Internet Explorer fork~~ browser made with Visual Studio 2010. 
 
-# Why I shouldn't use its pre-build executable
-Yeah, I'd rather not it's executable is stolen. I removed the executables on the debug folder so you can't execute it. If you want to compile it, just build using Visual Studio.
+# Wait, Where's the Pre-Built Executable
+There's none (yet) but If you want to, you can compile it yourself by using any version of VS2010 and after
 
 # Is it open source?
-Yeah, you can build your own browser like Internetium. Originally written for my friend Ranvir Singh, with some ideas. Like adding Escargot to toolbar, tabs.
+Wait, You expect NOT to be? you can try to fork to create your own browser that is like Internetium. Originally written for Ranvir Singh aka Th1n, with some ideas. Like adding Escargot to ~~toolbar~~ a menu, ~~tabs~~ It's Broken!
 
 # What browser it's based
-It's based on Internet Explorer, based on WebBrowser built in control on VS. 
+~~It's based on Internet Explorer, based on WebBrowser built in control on VS.~~ You can take a wild guess! Yes it's VBBrowser using a old IE version. 
 
-
-# What condition should I do?
-You can use Visual Basic 2010 Express, but change the compile location.
+# How can I compile?
+JUST USE VS2010 and HIGHER, DUMMY :D
 
 # Can I contact you via Discord?
-Yes, you can but if I busy, not. Username:basicallymachine_36262
+Yes, I might be busy but... @ps7ll743
