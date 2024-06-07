@@ -77,8 +77,8 @@ Partial Class AboutBox1
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(365, 144)
         Me.Label3.TabIndex = 4
-        Me.Label3.Text = "Originally Developed by BasicallyMachine " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "and Ranvir Singh" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Current Build by S" & _
-    "park the Electric Jester" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "BUILD DATE: JUNE 5TH 2024"
+        Me.Label3.Text = "Originally Developed by BasicallyMachine " & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "for Ranvir Singh" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "Current Build by S" & _
+    "park the Electric Jester" & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & Global.Microsoft.VisualBasic.ChrW(13) & Global.Microsoft.VisualBasic.ChrW(10) & "BUILD DATE: JUNE 7TH 2024"
         '
         'AboutBox1
         '

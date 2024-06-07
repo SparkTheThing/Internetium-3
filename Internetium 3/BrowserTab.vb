@@ -42,4 +42,32 @@
     Private Sub BrowserTab_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
         WebBrowser1.Navigate("https://www.google.com")
     End Sub
+
+    Private Sub EBayToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles EBayToolStripMenuItem.Click
+        WebBrowser1.Navigate("http://ebay.com")
+    End Sub
+
+    Private Sub YTToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles YTToolStripMenuItem.Click
+        WebBrowser1.Navigate("http://youtube.com")
+    End Sub
+
+    Private Sub GmailToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles GmailToolStripMenuItem.Click
+        WebBrowser1.Navigate("http://gmail.com")
+    End Sub
+
+    Private Sub OutlookToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles OutlookToolStripMenuItem.Click
+        WebBrowser1.Navigate("http://outlook.com")
+    End Sub
+
+    Private Sub BBCToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles BBCToolStripMenuItem.Click
+        WebBrowser1.Navigate("http://bbc.com")
+    End Sub
+
+    Private Sub AOLToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles AOLToolStripMenuItem.Click
+        WebBrowser1.Navigate("http://aol.com")
+    End Sub
+
+    Private Sub EscargotToolStripMenuItem_Click(sender As System.Object, e As System.EventArgs) Handles EscargotToolStripMenuItem.Click
+        WebBrowser1.Navigate("http://escargot.chat")
+    End Sub
 End Class
